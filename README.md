@@ -15,7 +15,7 @@ The implemented design can be found [here](https://www.figma.com/file/ZwwVBsm1IJ
   organize the components and code in a way that is mindful for scaling a typical frontend
   application. Feel free to use your favorite strategy for styling.
 
-- For the list of articles to display, query (https://www.reddit.com/r/todayilearned.json), and
+- For the list of articles to display, query https://www.reddit.com/r/todayilearned.json, and
   store the data in Redux.
 
 ### Bonus
@@ -28,7 +28,7 @@ The implemented design can be found [here](https://www.figma.com/file/ZwwVBsm1IJ
 
 ## Installation
 
-First thing you need to do is run the command git clone in order to download the project with the following command:
+First thing you need to do is run the following command in order to download the project:
 
 ```
 $ git clone https://github.com/francoschiavone/paytient-assignment
